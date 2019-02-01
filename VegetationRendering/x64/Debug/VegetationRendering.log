@@ -1,0 +1,35 @@
+﻿  Camera0.cpp
+  CascadedShadowMap.cpp
+c:\users\lobster\desktop\vegetationrendering\vegetationrendering\cascadedshadowmap.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\lobster\desktop\vegetationrendering\vegetationrendering\cascadedshadowmap.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\lobster\desktop\vegetationrendering\vegetationrendering\cascadedshadowmap.cpp(73): warning C4018: '<=': signed/unsigned mismatch
+c:\users\lobster\desktop\vegetationrendering\vegetationrendering\cascadedshadowmap.cpp(91): warning C4018: '<': signed/unsigned mismatch
+  crash.cpp
+  gBuffer.cpp
+  image_load.cpp
+  Instance.cpp
+  Mesh0.cpp
+c:\users\lobster\desktop\vegetationrendering\vegetationrendering\mesh0.cpp(76): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Model0.cpp
+  Particle.cpp
+  PBR.cpp
+  Shader0.cpp
+c:\users\lobster\desktop\vegetationrendering\vegetationrendering\shader0.cpp(75): warning C4101: 'infoLog': unreferenced local variable
+  SkyBox.cpp
+  SSAO.cpp
+c:\users\lobster\desktop\vegetationrendering\vegetationrendering\ssao.cpp(35): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  test.cpp
+  VegetationRendering.cpp
+c:\users\lobster\desktop\vegetationrendering\vegetationrendering\vegetationrendering.cpp(239): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\lobster\desktop\vegetationrendering\vegetationrendering\vegetationrendering.cpp(242): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\lobster\desktop\vegetationrendering\vegetationrendering\vegetationrendering.cpp(505): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\lobster\desktop\vegetationrendering\vegetationrendering\vegetationrendering.cpp(506): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\lobster\desktop\vegetationrendering\vegetationrendering\vegetationrendering.cpp(510): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\lobster\desktop\vegetationrendering\vegetationrendering\vegetationrendering.cpp(511): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\lobster\desktop\vegetationrendering\vegetationrendering\vegetationrendering.cpp(513): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\lobster\desktop\vegetationrendering\vegetationrendering\vegetationrendering.cpp(514): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\lobster\desktop\vegetationrendering\vegetationrendering\vegetationrendering.cpp(521): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  VegetationRendering.vcxproj -> C:\Users\lobster\Desktop\VegetationRendering\x64\Debug\VegetationRendering.exe
