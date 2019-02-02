@@ -9,7 +9,11 @@ Yudi Liu;
 Zeang Chen;
 Huxiao Huang;
 
+<<<<<<< HEAD
 <br>Finished:<\br>
+=======
+Finished:
+>>>>>>> 5d6ea878c20c082e5d5abfbc6ee085a10fd76c2c
 3D Tree Model;
 Blin-Phong Light Model;
 Deffered Shading (G-Buffer);
